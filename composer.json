@@ -1,5 +1,5 @@
 {
-    "name": "grokhotov/atol",
+    "name": "grokhotov/boxberry",
     "description": "Boxberry Symfony API Client. Данная библиотека предназначена для работы с сервисом Boxberry",
     "keywords": ["boxberry", "api", "online", "php"],
     "minimum-stability": "stable",
